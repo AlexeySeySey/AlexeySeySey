@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--![bib bob](https://user-images.githubusercontent.com/38053682/131028716-92b8a00b-b767-4258-8e28-25f8d094a01f.gif)-->
 <img src="https://user-images.githubusercontent.com/38053682/131033851-9c103644-29a4-4a97-8dd2-d9d81eefd009.gif" width="50%" height="50%"/>
 
 
