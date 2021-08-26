@@ -2,6 +2,8 @@
 
 ![bib bob](https://user-images.githubusercontent.com/38053682/131028716-92b8a00b-b767-4258-8e28-25f8d094a01f.gif)
 
+![Profile views](https://gpvc.arturio.dev/AlexeySeySey)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeySeySey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
